@@ -1,2 +1,2 @@
 # WarehouseWreckage
-A destruction game made on Unreal Engine 5
+A destruction simulator made on Unreal Engine 5.
